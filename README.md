@@ -79,7 +79,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Artino1300-2&color=blueviolet" alt="Profile Views" />
   <br />
   <i>⭐️ Feel free to explore my repositories and connect with me!</i>
 </p>
